@@ -1,0 +1,2 @@
+--brand: #5865f2;
+--brand-gradient: linear-gradient(90deg,#8ea1e1,#7289da);
